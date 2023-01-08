@@ -5,6 +5,6 @@ Openboard is a free, interactive platform for anyone who wants to quickly setup 
 -  CSS
 -  JAVASCRIPT
 # Features
--  UI for user interaction.
+-  UI for User Interaction.
 -  Pencil, Eraser, Shapes and different colour shades.
 -  Resizing the tools.
