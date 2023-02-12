@@ -18,7 +18,7 @@ let pencil = document.querySelector("#pencil");
             }
             //pencil.style.border = 1px solid red;
             cTool = "pencil";
-            tool.strokeStyle = drawcolor;
+            drawcolor = "black";
             tool.lineWidth = pencilSize;
         }
     })
@@ -55,7 +55,7 @@ let pencil = document.querySelector("#pencil");
             }
             //pencil.style.border = 1px solid red;
             cTool = "rect";
-            tool.strokeStyle = drawcolor;
+             drawcolor = "black";
             tool.lineWidth = rectSize;
         }
     })
@@ -72,7 +72,7 @@ let pencil = document.querySelector("#pencil");
             }
             //pencil.style.border = 1px solid red;
             cTool = "line";
-            tool.strokeStyle = drawcolor;
+            drawcolor = "black";
             tool.lineWidth = lineSize;
         }
     })
